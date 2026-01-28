@@ -1,11 +1,17 @@
-BEM-VINDO À MATRIX
+# Bem-vindo à Matrix
 
-"Você tomou a pílula verde. Agora não há volta."
+![Matrix Rain](https://media.giphy.com/media/26xBKhx9yP8sxQZb2/giphy.gif)
 
---------------------------------------------------
-DESENVOLVEDOR DE SOFTWARE
-Código é realidade. Bugs são ilusões.
---------------------------------------------------
+
+```diff
++ Desenvolvedor fullstack 
++ Cada linha de código é uma escolha
+
+while(alive) {
+   learn();
+   code();
+   breakTheMatrix();
+}
 
 
 SOBRE MIM
