@@ -1,46 +1,43 @@
-# Nome do Projeto 🚀
+# Olá, eu sou [Seu Nome] 👋
 
-Uma breve descrição do projeto, explicando o que ele faz e seu propósito.  
-
-![Badge](https://img.shields.io/badge/status-em%20desenvolvimento-yellow) ![License](https://img.shields.io/badge/license-MIT-blue)
+Bem-vindo ao meu GitHub! Aqui você vai encontrar meus projetos, experimentos e aprendizados em tecnologia.  
 
 ---
 
-## 📖 Sobre
+## 💻 Sobre mim
 
-Aqui você pode detalhar o projeto, seu contexto e objetivo.  
-Por exemplo:  
-
-> Este projeto é uma aplicação que faz X, Y e Z, ajudando os usuários a resolverem [problema X].
-
----
-
-## 💡 Funcionalidades
-
-- [x] Funcionalidade 1
-- [x] Funcionalidade 2
-- [ ] Funcionalidade futura 3
-- [x] Integração com API externa
+- 🚀 Desenvolvedor(a) Full Stack | Front-end | Back-end  
+- 🌱 Atualmente estudando: **Inteligência Artificial e DevOps**  
+- 🎯 Foco em: **Projetos Open Source e soluções criativas**  
+- 📝 Compartilho conhecimento através de **tutoriais e artigos**  
 
 ---
 
-## 🛠 Tecnologias
+## 🔧 Tecnologias & Ferramentas
 
-As principais tecnologias utilizadas no projeto:
-
-- [Linguagem/Framework 1](https://exemplo.com)
-- [Linguagem/Framework 2](https://exemplo.com)
-- [Banco de Dados/Serviço](https://exemplo.com)
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</div>
 
 ---
 
-## ⚡ Como Usar
+## 📈 Minhas estatísticas do GitHub
 
-### Pré-requisitos
+![Seu Nome GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
 
-- Instalar [Node.js](https://nodejs.org) ou outra dependência necessária.
-- Clonar este repositório:
+---
 
-```bash
-git clone https://github.com/seu-usuario/nome-do-projeto.git
-cd nome-do-projeto
+## 📫 Contato
+
+- Email: seuemail@exemplo.com  
+- LinkedIn: [Seu LinkedIn](https://linkedin.com/in/seu-perfil)  
+- Twitter: [@seuusuario](https://twitter.com/seuusuario)
+
+---
+
+✨ Vamos criar coisas incríveis juntos!
