@@ -11,12 +11,4 @@
 + Cada linha de código é uma escolha
 + Domino Java, C#, C, Python, JavaScript
 + Especialista em Angular e Node.js
-</div>
-<div align="center">
-java
-while(alive) {
-   learn();
-   code();
-   breakTheMatrix();
-}
-</div>
+
