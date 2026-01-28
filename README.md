@@ -6,11 +6,7 @@ Bem-vindo ao meu GitHub! Aqui você vai encontrar meus projetos, experimentos e 
 
 ## 💻 Sobre mim
 
-- 🚀 Desenvolvedor(a) Full Stack | Front-end | Back-end  
-- 🌱 Atualmente estudando: **Inteligência Artificial e DevOps**  
-- 🎯 Foco em: **Projetos Open Source e soluções criativas**  
-- 📝 Compartilho conhecimento através de **tutoriais e artigos**  
-
+- 🚀 Desenvolvedor Front-end | Back-end   
 ---
 
 ## 🔧 Tecnologias & Ferramentas
@@ -26,18 +22,3 @@ Bem-vindo ao meu GitHub! Aqui você vai encontrar meus projetos, experimentos e 
 
 ---
 
-## 📈 Minhas estatísticas do GitHub
-
-![Seu Nome GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
-
----
-
-## 📫 Contato
-
-- Email: seuemail@exemplo.com  
-- LinkedIn: [Seu LinkedIn](https://linkedin.com/in/seu-perfil)  
-- Twitter: [@seuusuario](https://twitter.com/seuusuario)
-
----
-
-✨ Vamos criar coisas incríveis juntos!
