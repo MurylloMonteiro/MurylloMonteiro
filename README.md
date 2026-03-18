@@ -5,7 +5,8 @@ Bem-vindo ao meu GitHub! Aqui você vai encontrar meus projetos, experimentos e 
 
 ## 💻 Sobre mim
 
-- 🚀 Desenvolvedor Front-end | Back-end   
+- 🚀 Desenvolvedor Front-end | Back-end
+- Dono da DrawerIdea [DrawerIdea](https://www.meuprojeto.cloud/)
 ---
 
 ## 🔧 Tecnologias & Ferramentas
